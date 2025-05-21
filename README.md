@@ -1,4 +1,4 @@
-![BG](OIP.jpg)
+<img src="OIP.jpg" alt="Banner" width="100%" />
 
 # 🌟 Welcome to My GitHub! 🌟
 
