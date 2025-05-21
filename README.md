@@ -26,8 +26,5 @@ For business-related inquiries, feel free to contact me directly at:
 
 And for fun, here's a trailer to the **game** I've built entirely on **C++** from scratch:
 
-<video controls autoplay muted>
-  <source src="Theme_Tussle_Trailer.mp4" type="video/mp4">
-  Your browser does not support mp4 files.
-</video>
+https://youtu.be/Tdyt_Ypg8g0?si=yp3By7Odlnnp8h7_
 
