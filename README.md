@@ -26,5 +26,5 @@ For business-related inquiries, feel free to contact me directly at:
 
 And for fun, here's a trailer to the **game** I've built entirely on **C++** from scratch:
 
-https://youtu.be/Tdyt_Ypg8g0?si=yp3By7Odlnnp8h7_
+https://youtu.be/Tdyt_Ypg8g0?si=yp3By7Odlnnp8h7_/0.jpg
 
