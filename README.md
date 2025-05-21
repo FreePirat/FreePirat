@@ -1,4 +1,4 @@
-<img src="OIP.jpg" alt="Banner" width="80%" />
+<img src="img/OIP.jpg" alt="Banner" width="80%" />
 
 # 🌟 Welcome to My GitHub! 🌟
 
