@@ -1,10 +1,11 @@
-<img src="Background.jpg" alt="Banner" width="80%" />
+<img src="Background.jpg" alt="Banner" width="60%" />
 
 # 🌟 Welcome to My GitHub! 🌟
 
 ## 💻 **Programming is my passion**
 
-I take pride in creating *innovative* and *efficient* solutions. Whether it's a small script or a full-fledged application, I enjoy tackling challenges and making ideas come to life. Some of my projects include:
+I take pride in creating *innovative* and *efficient* solutions. Whether it's a small script or a full-fledged application,
+I enjoy tackling challenges and making ideas come to life. Some of my projects include:
 
 - A **database** that stores character information linked to a **C++ game** I've developed.
 - A **fighting game** entirely built from scratch with **C++**
@@ -12,7 +13,8 @@ I take pride in creating *innovative* and *efficient* solutions. Whether it's a 
 
 ## 🚀 **Always Be Coding (ABC)**
 
-I live by the mindset of continuous improvement. There's always room to grow, and I'm always on the lookout for new opportunities to expand my skill set. I'm passionate about:
+I live by the mindset of continuous improvement. There's always room to grow, and I'm always on the lookout
+for new opportunities to expand my skill set. I'm passionate about:
 
 - Collaborating with dynamic teams
 - Leveraging my skills to make a meaningful impact
