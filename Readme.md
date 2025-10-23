@@ -4,7 +4,7 @@
 
 ## 💻 **Programming is my passion**
 
-<p>I take pride in creating **innovative** and **efficient** solutions.</p>
+<p>I take pride in creating <b>innovative</b> and <b>efficient</b> solutions.</p>
 <p>Whether it's a small script or a full-fledged application, I enjoy tackling challenges and making ideas come to life.</p>
 <p>Some of my projects include:</p>
 
